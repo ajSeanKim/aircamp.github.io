@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+main {min-height:56rem;}
+
+#board-form {max-width:1200px; margin: 30px auto;}
+#board-form input, #board-form textarea {width:100%;}
+#board-form h1, #board-form h2, #board-form h3 {text-align:center;}
+#board-form .board-btns {display:flex; justify-content:center; gap:1rem; margin:2rem;}
+#board-form .board-btns input {padding:7px 14px;}
+.btns {display:flex; justify-content:center; gap:1rem; margin:2rem;}
+.btns input {padding:7px 14px;}
+
+section.wrap {margin:10rem auto;}
+.slide-container h2 {margin:10px 8px; font-size:2.8rem;}
+.slide-container .silde-wrap {width: 100%;}
+.slide-container .silde-wrap .content {display:inline-block; width:280px; margin:8px; border-radius: 4px; overflow:hidden; box-shadow: 1px 5px 10px rgba(0,0,0,.1);}
+.slide-container .silde-wrap .content {display: block;}
+.slide-container .silde-wrap .content img {width: 100%; height: 270px; object-fit:cover;}
+.slide-container .silde-wrap .content .title {padding:1.5rem 1rem; font-weight:600; text-overflow:ellipsis; white-space:nowrap; overflow:hidden;}
