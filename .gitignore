@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### yml 파일 secret info
-applicatiohn.yml
+applicatiohn.yaml
