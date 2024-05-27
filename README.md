@@ -1,5 +1,8 @@
 ![image](https://github.com/ajseonkim/aircamp/assets/155918264/03774e20-b898-4c6e-9233-2b06f8f66235)
 - 배포 URL : http://13.124.184.222:8080/camp/list
+  
+## 활용한 기술
+Java, JSP, MyBatis, MySQL, HTML, JavaScript, CSS, SpringBoot, STS, AWS(EC2, RDS)
 
 ## 개요
 - 날씨 및 미세먼지 정보를 추출하여 캠핑장및  관광지를 사용자에게 추천해 주는 사이트 구현했습니다.
@@ -21,5 +24,4 @@
 또한 로그인 기능을 구현할 때, JWT를 활용한 토큰 방식이 아닌 Session 방식을 선택하여 구현하였습니다. 
 2차 프로젝트에서는 RestTemplate이랑 JWT를 공부하여 구현하고 싶습니다.
 
-## 활용한 기술
-Java, JSP, MyBatis, MySQL, HTML, JavaScript, CSS, SpringBoot, STS, AWS(EC2, RDS)
+
